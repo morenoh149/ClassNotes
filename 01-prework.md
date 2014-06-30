@@ -3,7 +3,7 @@
 This is the prework expected to be completed before the first day of classes July 7th 2014.
 
 * register an account on [github.com](github.com). It will be your resume as a programmer. All your code will be visible to employers to review.
-* You must use OSX or LINUX for this course (no Windows). If you need to keep your windows install [dual boot it](http://www.dedoimedo.com/computers/dual-boot-windows-8-ubuntu.html). Otherwise install [Ubuntu](https://www.youtube.com/watch?v=i_4Kh5kE3xA) as your main OS. Or, if you machine is fast enough install if via [VirtualBox](http://www.psychocats.net/ubuntu/virtualbox).
+* You must use OSX or LINUX for this course (no Windows). If you need to keep your windows install [dual boot it](http://www.dedoimedo.com/computers/dual-boot-windows-8-ubuntu.html). Otherwise install [Ubuntu](https://www.youtube.com/watch?v=i_4Kh5kE3xA) as your main OS. Or, if you machine is fast enough install it via [VirtualBox](http://www.psychocats.net/ubuntu/virtualbox).
 * Anytime you watch a tutorial on youtube I encourage you to play it at 1.5x speed unless that's too fast for you.
 * install [sublime text](http://www.sublimetext.com/2)
 * watch this intro to the [terminal](https://www.youtube.com/watch?v=jDINUSK7rXE)
