@@ -16,5 +16,5 @@ This is the prework expected to be completed before the first day of classes Jul
 * install chrome browser
 * Go [devdocs.io](devdocs.io) Pin this site in your browser. Add the `git` and `jQuery` documentation.
 * watch [Web Development Career advice](https://www.youtube.com/watch?v=zXqs6X0lzKI)
-* You can use irc to communicate with your peers. (freenode)[https://webchat.freenode.net/] pick a nickname and enter `#hackercodingacademy` for the channel name.
+* You can use irc to communicate with your peers. [freenode](https://webchat.freenode.net/) pick a nickname and enter `#hackercodingacademy` for the channel name.
   * other channels to explore `##javascript` `#git` `#html` `#css`
