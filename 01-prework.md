@@ -3,8 +3,8 @@
 This is the prework expected to be completed before the first day of classes July 7th 2014.
 
 * register an account on [github.com](github.com). It will be your resume as a programmer. All your code will be visible to employers to review.
-* You must use OSX or LINUX for this course (no Windows). If you need to keep your windows install [dual boot it](http://www.dedoimedo.com/computers/dual-boot-windows-8-ubuntu.html). Otherwise install [Ubuntu](https://www.youtube.com/watch?v=i_4Kh5kE3xA) alone
-* Anytime you watch a tutorial on youtube I encourage you to play it at 1.5x speed unless you can't understand the material at that speed.
+* You must use OSX or LINUX for this course (no Windows). If you need to keep your windows install [dual boot it](http://www.dedoimedo.com/computers/dual-boot-windows-8-ubuntu.html). Otherwise install [Ubuntu](https://www.youtube.com/watch?v=i_4Kh5kE3xA) alone.
+* Anytime you watch a tutorial on youtube I encourage you to play it at 1.5x speed unless that's too fast for you.
 * install [sublime text](http://www.sublimetext.com/2)
 * watch this intro to the [terminal](https://www.youtube.com/watch?v=jDINUSK7rXE)
 * Now that you know how to do things in the terminal you can install the following using the terminal
@@ -18,3 +18,7 @@ This is the prework expected to be completed before the first day of classes Jul
 * watch [Web Development Career advice](https://www.youtube.com/watch?v=zXqs6X0lzKI)
 * You can use irc to communicate with your peers. Go to [Freenode](https://webchat.freenode.net/). Pick a nickname and enter `#hackercodingacademy` for the channel name.
   * other channels to explore `##javascript` `#git` `#html` `#css`
+
+My name is [Harry Moreno](h@hackerca.com). I along with [Berkeley](your@email.com) will be teaching you Full-Stack Javascript development in 12 weeks.
+
+<summarize 12 weeks>
