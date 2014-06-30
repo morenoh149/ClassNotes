@@ -12,8 +12,8 @@ This is the prework expected to be completed before the first day of classes Jul
   * install git **OSX** `brew install git` **LINUX** `sudo apt-get install git`
 * **OSX** install xcode
 * install [node](http://nodejs.org/) **NOTE:** dont install node with homebrew on OSX
-* sign up for [typeracer](http://play.typeracer.com/) By the time you graduate from hacker coding academy you should try to be able to [touch type](https://en.wikipedia.org/wiki/Touchtype) > 60 wpm [Article: We are typists first](http://blog.codinghorror.com/we-are-typists-first-programmers-second/)
+* sign up for [typeracer](http://play.typeracer.com/) By the time you graduate from hacker coding academy you should try to be able to [touch type](https://en.wikipedia.org/wiki/Touchtype) > 60 wpm. [We are typists first](http://blog.codinghorror.com/we-are-typists-first-programmers-second/)
 * install chrome browser
 * Go [devdocs.io](devdocs.io) Pin this site in your browser. Add the `git` and `jQuery` documentation.
-* watch [WEB DEVELOPMENT - SECRETS TO STARTING A CAREER in the Web Development Industry ](https://www.youtube.com/watch?v=JilfXmI2IjQ)
+* watch [Web Development Career advice](https://www.youtube.com/watch?v=zXqs6X0lzKI)
 * You can use irc to communicate with your peers. (freenode)[https://webchat.freenode.net/] pick a nickname and enter `#hackercodingacademy` for the channel name.
