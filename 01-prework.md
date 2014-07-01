@@ -1,7 +1,7 @@
 #Welcome to Hacker Coding Academy!
 
 This is the prework expected to be completed before the first day of classes July 7th 2014.
-*~3 hours to Complete*
+***~3 hours to Complete***
 
 * register an account on [github.com](github.com). It will be your resume as a programmer. All your code will be visible to employers to review.
 * You must use OSX or LINUX for this course (no Windows). If you need to keep your windows install [dual boot it](http://www.dedoimedo.com/computers/dual-boot-windows-8-ubuntu.html). Otherwise install [Ubuntu](https://www.youtube.com/watch?v=i_4Kh5kE3xA) as your main OS. Or, if you machine is fast enough install it via [VirtualBox](http://www.psychocats.net/ubuntu/virtualbox).
@@ -22,7 +22,8 @@ This is the prework expected to be completed before the first day of classes Jul
 
 My name is [Harry Moreno](mailto:harry@hackerca.com). I along with [Berkeley](mailto:berkeley@hackerca.com) will be teaching you Full-Stack Javascript development in 12 weeks. Part of learning web development is learning how to use google to find answers to your problem.
 
-*~2 hours to Complete*
+***~2 hours to Complete***
+
 So as a first task I would like you to google `how to clone a github repo` and clone the repo you're looking at.
 
 Secondly, do the first lesson of [dash](https://dash.generalassemb.ly/). If you get stuck at any point please ask the instructors on irc or email both of us.
