@@ -11,7 +11,7 @@ This is the prework expected to be completed before the first day of classes Jul
   * **OSX**: install [homebrew](http://brew.sh/)
   * install git **OSX** `brew install git` **LINUX** `sudo apt-get install git`
 * **OSX** install xcode
-* install [node](http://nodejs.org/) **NOTE:** dont install node with homebrew on OSX or linux. Use their binaries.
+* install [node](http://nodejs.org/) **NOTE:** dont install node with homebrew on OSX or apt-get on linux. Use their binaries.
 * install [sublime text](http://www.sublimetext.com/3)
 * install [sublime linter](https://github.com/SublimeLinter/SublimeLinter-for-ST2#installing) following the instructions under `With the Package Control Plugin`
 * sign up for [typeracer](http://play.typeracer.com/) By the time you graduate from hacker coding academy you should try to be able to [touch type](https://en.wikipedia.org/wiki/Touchtype) > 60 wpm. [We are typists first](http://blog.codinghorror.com/we-are-typists-first-programmers-second/)
