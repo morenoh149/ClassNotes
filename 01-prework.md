@@ -14,9 +14,10 @@ This is the prework expected to be completed before the first day of classes Jul
 * install [node](http://nodejs.org/) **NOTE:** dont install node with homebrew on OSX
 * sign up for [typeracer](http://play.typeracer.com/) By the time you graduate from hacker coding academy you should try to be able to [touch type](https://en.wikipedia.org/wiki/Touchtype) > 60 wpm. [We are typists first](http://blog.codinghorror.com/we-are-typists-first-programmers-second/)
 * install chrome browser
-* Go [devdocs.io](devdocs.io) Pin this site in your browser. Add the `git` and `jQuery` documentation.
+* Go to [devdocs.io](devdocs.io) Pin this site in your browser. Add the `git` and `jQuery` documentation.
 * watch [Web Development Career advice](https://www.youtube.com/watch?v=zXqs6X0lzKI)
 * You can use irc to communicate with your peers. Go to [Freenode](https://webchat.freenode.net/). Pick a nickname and enter `#hackercodingacademy` for the channel name.
   * other channels to explore `##javascript` `#git` `#html` `#css`
 
 My name is [Harry Moreno](h@hackerca.com). I along with [Berkeley](berkeley@hackerca.com) will be teaching you Full-Stack Javascript development in 12 weeks. Part of learning web development is learning how to use google to find answers to your problem. So as a first task I would like you to google `how to clone a github repo` and clone the repo you're looking at ...
+Also do the first lesson of [dash](https://dash.generalassemb.ly/). If you get stuck at any point please ask the instructors on irc or email both of us.
