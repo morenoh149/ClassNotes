@@ -19,7 +19,7 @@ This is the prework expected to be completed before the first day of classes Jul
 * You can use irc to communicate with your peers. Go to [Freenode](https://webchat.freenode.net/). Pick a nickname and enter `#hackercodingacademy` for the channel name.
   * other channels to explore `##javascript` `#git` `#html` `#css`
 
-My name is [Harry Moreno](h@hackerca.com). I along with [Berkeley](berkeley@hackerca.com) will be teaching you Full-Stack Javascript development in 12 weeks. Part of learning web development is learning how to use google to find answers to your problem.
+My name is [Harry Moreno](mailto:h@hackerca.com). I along with [Berkeley](mailto:berkeley@hackerca.com) will be teaching you Full-Stack Javascript development in 12 weeks. Part of learning web development is learning how to use google to find answers to your problem.
 
 So as a first task I would like you to google `how to clone a github repo` and clone the repo you're looking at.
 
