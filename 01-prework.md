@@ -29,4 +29,4 @@ Part of learning web development is learning how to use google to find answers t
 
 So as a first task I would like you to google `how to clone a github repo` and clone the repo you're looking at.
 
-Secondly, do the first lesson of [dash](https://dash.generalassemb.ly/). If you get stuck at any point please ask the instructors on irc or email both of us.
+Secondly, do the first lesson of [dash](https://dash.generalassemb.ly/). If you get stuck at any point please ask the instructors on irc or email any of the instructors.
