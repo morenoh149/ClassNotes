@@ -18,7 +18,7 @@ This is the prework expected to be completed before the first day of classes Jul
 * Install [sublime linter](https://github.com/SublimeLinter/SublimeLinter-for-ST2#installing) following the instructions under `With the Package Control Plugin`
 * Sign up for [typeracer](http://play.typeracer.com/) By the time you graduate from hacker coding academy you should try to be able to [touch type](https://en.wikipedia.org/wiki/Touchtype) > 60 wpm. [We are typists first](http://blog.codinghorror.com/we-are-typists-first-programmers-second/)
 * Install chrome browser
-* Go to [devdocs.io](devdocs.io) Pin this site in your browser. Add the `git` and `jQuery` documentation.
+* Go to [devdocs.io](http://www.devdocs.io/) Pin this site in your browser. Add the `git` and `jQuery` documentation.
 * Watch [Web Development Career advice](https://www.youtube.com/watch?v=zXqs6X0lzKI)
 * You can use irc to communicate with your peers. Go to [Freenode](https://webchat.freenode.net/). Pick a nickname and enter `#hackercodingacademy` for the channel name.
   * Other channels to explore `##javascript` `#git` `#html` `#css`
